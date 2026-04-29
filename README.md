@@ -1,4 +1,4 @@
-# Interaction Scores using AlphaFold3 protein prediction
+# Interaction Scores using AlphaFold3 protein predictions
 
 This repository contains two R scripts for batch-processing **AlphaFold3** prediction output archives (`.zip`) in a local folder. The scripts are designed to help with two common post-processing tasks (1) to **calculate an interaction score** from the inter-chain **Predicted Aligned Error (PAE)** matrix and (2) to **generate PAE heatmaps** for each prediction and export them as multi-panel PNG pages. These scripts are useful for screening large sets of AlphaFold3 predictions for potential protein-protein interactions and for visually inspecting model confidence across and between chains.
 
