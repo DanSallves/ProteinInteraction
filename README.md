@@ -174,7 +174,7 @@ Replace the filenames above with the actual names used in your repository.
 Produces a summary CSV file similar to:
 
 ```text
-SPRYonly_Contacts_OAS2.csv
+SPRYonly_Contacts_ZAP.csv
 ```
 
 Example output table:
